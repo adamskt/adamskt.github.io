@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Technical Hiccups
+description:      A blog of my technical singulti.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -8,21 +8,17 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Kelly Adams
+  avatar:         http://www.gravatar.com/avatar/4ed277563b2ff0ad0b8614ec87eba9dc.png
+  bio:            "A veteran Microsoft stack code-ninja, trapped in the body of a middle-aged human."
+  email:          kelly@intellitect.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  twitter:        https://twitter.com/adamskt
+  github:         https://github.com/adamskt/
+  stackexchange:  http://stackexchange.com/users/7347/kelly-adams
+  linkedin:       https://www.linkedin.com/in/kellytadams
+    # For Google Authorship https://plus.google.com/authorship
+  google_plus:   	https://plus.google.com/u/0/+KellyAdams75/
 
 # Background image to be tiled on all pages
 background: 
@@ -43,10 +39,10 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
-#highlighter: pygments
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
